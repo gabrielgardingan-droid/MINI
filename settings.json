@@ -1,5 +1,5 @@
 {
-  "name": "MINI",
+  "name": "afkbot",
   "bot-account": {
     "username": "MINI",
     "password": "",
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "pogi ako",
+        "super pogi!",
+        "poging pogi"
       ]
     },
     "chat-log": true,
